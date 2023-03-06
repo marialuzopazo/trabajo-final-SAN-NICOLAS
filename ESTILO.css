@@ -29,3 +29,8 @@ clip-path: circle(50% at rigth 50%);
 
 
 }
+
+section.logo {
+  max-width: 150px;
+  
+}
